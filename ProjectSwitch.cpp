@@ -54,7 +54,7 @@ int main() {
                     rs += "0";
                 }
             }
-            cout << reverse(rs) << endl;
+            cout << "Результат: " <<reverse(rs) << endl;
             break;
         default:
             cout << "Неверный номер действия!" << endl;
